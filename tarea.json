@@ -1,0 +1,22 @@
+{
+  "OrderID": 123456,
+  "Address": "Calle Paseo Colon 777",
+  "Status": "Pendiente",
+  "Articles": [
+    {
+      "Name": "Camiseta",
+      "Quantity": 2,
+      "Dangerous": false
+    },
+    {
+      "Name": "Baterías",
+      "Quantity": 10,
+      "Dangerous": true
+    },
+    {
+      "Name": "Libro",
+      "Quantity": 1,
+      "Dangerous": false
+    }
+  ]
+}
